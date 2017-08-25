@@ -1,0 +1,59 @@
+This project involves 4 steps to be done with PhP scripts & MySQL:
+
+1) Create a user registration form on my hosted server where users fill in: name, email, password, age, sexe, weight and height amd fitness (scale 1-5). The data should be added to a MySQL database which has already been created
+
+2) Create a user login page. On my website there are already 2 webpages, make sure they are only available after logging in.
+
+3) These 2 webpages are webforms where users fill in values which are already saved to the MySQL database. Make sure the user ID is tagged to the data saved by these webforms in MySQL.
+
+4) Create a page for users who forgot their password, where they can create a new one.
+[8/23/17, 6:42:28 PM] Md. Shahinur Rahman: Second, do you work with Git? For instance through Bitbucket (is free)?
+[8/23/17, 6:42:44 PM] Md. Shahinur Rahman: It currently is not/partly in codeigniter.
+I can give you access to what there is now.
+
+Than you can say to me what you can do
+[8/23/17, 6:42:55 PM] Md. Shahinur Rahman: I currently have 2 ´webforms´. In both webforms, users add figures or upload an excel file. The input is sent to a MySQL database
+[8/23/17, 6:43:04 PM] Md. Shahinur Rahman: So it is important that when users are registered and logged in and use these webforms, that the webforms recognize the user and add this users user_ID to the upload
+[8/23/17, 6:43:22 PM] Md. Shahinur Rahman: Hostname is: mysql1324.cp.hostnet.nl
+Port is 3306
+User is u289525_Free2
+
+and password  is Freelancer0019
+[8/23/17, 6:43:34 PM] Md. Shahinur Rahman: tp.d289525.cp.hostnet.nl
+Port 21
+Login  
+f288932
+Password Freelancer0019
+
+Or use this as host    91.184.0.13
+[8/23/17, 6:43:43 PM] Md. Shahinur Rahman: www.bfcalculator.com/intake
+
+www.bfcalculator.com/uploadscript
+[8/23/17, 6:44:00 PM] Md. Shahinur Rahman: how much effort to make that one codeigniter also?
+
+that intake one I mean
+[8/23/17, 6:44:10 PM] Md. Shahinur Rahman: do you make use of any template?
+[8/23/17, 6:44:17 PM] Md. Shahinur Rahman: This one looks nice:    https://bootsnipp.com/snippets/97Bpj
+[8/23/17, 6:44:28 PM] Md. Shahinur Rahman: Do you know what fields to create?
+It is in the project subscription
+
+I mean details
+[8/23/17, 6:44:47 PM] Md. Shahinur Rahman: Can you create feature branches?
+Have you got my invite?
+
+invite within bitbucket
+[8/23/17, 6:44:55 PM] Md. Shahinur Rahman: So you create feature branches?
+[8/23/17, 6:45:02 PM] Md. Shahinur Rahman: Please load the current webforms into Git when you start. It was not in Git until now
+[8/23/17, 6:45:13 PM] Md. Shahinur Rahman: I suppose you need some help with the registration form questions
+
+
+visit http://www.hostnet.nl/
+login with joramkolf@gmail.com and as password Freelancer0019
+Then go to 'Mijn Hostnet'
+Then you will see Cpanel right above on screen
+Than on Cpanel you see Database right beneath
+Also files you can get there to download I guess
+
+
+u289525_dev
+d1LC5r1L
